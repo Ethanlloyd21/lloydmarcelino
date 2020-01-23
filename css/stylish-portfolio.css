@@ -52,7 +52,7 @@ h6 {
 #photoAbout {
   width: 20%;
   height: auto;
-  float: left;
+  
   
 }
 
@@ -389,4 +389,8 @@ a:hover, a:focus, a:active {
 .social-link:hover, .icon-social-github:hover{
  
   transform: rotateY(360deg);
+}
+
+.skillsAt {
+  color: #ecb807;
 }
