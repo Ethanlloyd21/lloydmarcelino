@@ -2,6 +2,15 @@
 My Professional Portfolio were you'll find my work and what I've accomplish
 # Contents
 ![](img/intro.PNG)
+Static, clean and stylish interface.
+
+![](img/aboutMe.PNG)
+Tells a storry of my passion and inner personality.
+
+![](img/skillsPage.PNG)
+My expertise lies in giving the utmost experience to the customer
+
+![](img/projects.PNG)
 
 
 # Deployement
