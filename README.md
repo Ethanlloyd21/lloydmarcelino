@@ -1,8 +1,9 @@
 # Lloyd Marcelino - Portfolio
 My Professional Portfolio were you'll find my work and what I've accomplish
 # Contents
+* Static, clean and stylish interface.
 ![](img/intro.PNG)
-Static, clean and stylish interface.
+
 
 ![](img/aboutMe.PNG)
 Tells a storry of my passion and inner personality.
