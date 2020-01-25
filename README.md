@@ -11,3 +11,5 @@ View my Portfolio <a href="https://ethanlloyd21.github.io/lloydmarcelino/" rel="
 * JavaScript
 * jQuery 
 
+# License 
+This project is licensed under the MIT License - see the LICENSE.md file for details
