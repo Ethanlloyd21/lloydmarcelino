@@ -17,7 +17,8 @@ My Professional Portfolio were you'll find my work and what I've accomplish
 ![](img/contacts.PNG)
 
 # SEO Optimization
-* Google Search Console - enhancing the visibility of my website on Google search engine and Twitter. Also helps to measure the search traffic and performance.
+* Google Search Console - enhancing the visibility of my website on Google search engine. Also helps to measure the search traffic and performance.
+![](img/googleCon.PNG)
 
 * Keywords - using the most searc
 
