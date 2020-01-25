@@ -20,9 +20,7 @@ My Professional Portfolio were you'll find my work and what I've accomplish
 * Google Search Console - enhancing the visibility of my website on Google search engine. Also helps to measure the search traffic and performance.
 ![](img/googleCon.PNG)
 
-* Keywords - using the most searc
-
-
+* Keywords (meta elements) - using the most searchable keywords (web developer, web designer, etc.) for search engine indexing. 
 
 # Deployement
 View my Portfolio <a href="https://ethanlloyd21.github.io/lloydmarcelino/" rel="nofollow"> here.</a>
