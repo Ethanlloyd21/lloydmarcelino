@@ -232,13 +232,22 @@ h6 {
 }
 
 .callout {
-  padding: 15rem 0;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/skill.jpg");
+
+  
+  padding: 2rem 0;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 50%), url("../img/skill.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   
+  /*
+  background-color: #ecb807;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  */
 }
+
+
 
 .callout h2 {
   font-size: 3.5rem;
