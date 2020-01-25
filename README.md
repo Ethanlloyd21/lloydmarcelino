@@ -16,6 +16,12 @@ My Professional Portfolio were you'll find my work and what I've accomplish
 * If you are satisfied, let me build what you need.
 ![](img/contacts.PNG)
 
+# SEO Optimization
+* Google Search Console - enhancing the visibility of my website on Google search engine and Twitter. Also helps to measure the search traffic and performance.
+
+* Keywords - using the most searc
+
+
 
 # Deployement
 View my Portfolio <a href="https://ethanlloyd21.github.io/lloydmarcelino/" rel="nofollow"> here.</a>
