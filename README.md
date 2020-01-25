@@ -1,6 +1,7 @@
 # Lloyd Marcelino - Portfolio
 My Professional Portfolio were you'll find my work and what I've accomplish
 # Contents
+![](img/intro.PNG)
 
 
 # Deployement
