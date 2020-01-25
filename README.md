@@ -1,17 +1,20 @@
 # Lloyd Marcelino - Portfolio
 My Professional Portfolio were you'll find my work and what I've accomplish
 # Contents
-* Static, clean and stylish interface.
+* My Portfolio 
 ![](img/intro.PNG)
 
-
+* Tells a story of my passion and inner personality
 ![](img/aboutMe.PNG)
-Tells a storry of my passion and inner personality.
 
+* My expertise lies in giving the utmost experience to the customer
 ![](img/skillsPage.PNG)
-My expertise lies in giving the utmost experience to the customer
 
+* Based on what I accomplised and learned
 ![](img/projects.PNG)
+
+* If you are satisfied, let me build what you need.
+![](img/contacts.PNG)
 
 
 # Deployement
